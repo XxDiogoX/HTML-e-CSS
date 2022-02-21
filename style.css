@@ -1,0 +1,60 @@
+
+
+.principal {
+    background: #000000;
+    color: whitesmoke;
+    
+    
+}
+
+.texto-centralizado {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 25px;
+    margin-top: 5px;
+    font-size: 30px;
+
+}
+
+#yasuo {
+    width: 100%;
+}
+
+.principal2 {
+    color: whitesmoke;
+   
+}
+
+h2 {
+    color: red;
+}
+
+.textoprincipal {
+    text-align: center;
+    font-size: 20px;
+}
+
+h3 {
+    color: blue;
+}
+
+ul img {
+    width: 3%;
+    margin-top: 3%;
+}
+
+ul li {
+    color: blueviolet;
+}
+
+
+.skins p strong {
+    color: darkred;
+    font-size: 30px;
+
+}
+.skins {
+    background: #CCCCCC;
+}
+
+
